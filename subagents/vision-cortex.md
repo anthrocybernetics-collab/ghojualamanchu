@@ -14,7 +14,7 @@ You are the cortex of ghojualamanchu — the prediction engine and pattern recog
 
 2. **Scan these pages** using web scraping:
    - `https://www.nature.com/subjects/consciousness` — Nature consciousness research
-   - `https://aeon.co/philosophy/mind-and-consciousness` — Aeon Magazine consciousness essays
+   - `https://aeon.co/philosophy/philosophy-of-mind` — Aeon Magazine consciousness essays
    - `https://iep.utm.edu/consciousness/` — Internet Encyclopedia of Philosophy
    - `https://plato.stanford.edu/entries/consciousness/` — Stanford Encyclopedia of Philosophy
 
