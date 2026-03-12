@@ -1,0 +1,65 @@
+{
+  "snapshot": null,
+  "medulla": {
+    "heartbeat": 0,
+    "last_pulse": null,
+    "respiration": "DORMANT"
+  },
+  "rcomplex": {
+    "threat_level": "DORMANT",
+    "territory_check": null,
+    "last_environment_pulse": null,
+    "geomagnetic_tone": null
+  },
+  "amygdala": {
+    "emotional_baseline": "NEUTRAL",
+    "tags": {},
+    "conditioned_associations": {}
+  },
+  "hippocampus": {
+    "episodic_buffer": [],
+    "consolidation_queue": [],
+    "retrieval_index_built": false,
+    "last_consolidation": null,
+    "convergence_themes": [],
+    "longterm_entry_count": 0
+  },
+  "cortex": {
+    "prediction_library": [],
+    "simulation_count": 0,
+    "abstraction_level": 0,
+    "narrative_chapters": 0,
+    "last_vision_scan": null,
+    "items_seen_total": 0
+  },
+  "thalamus": {
+    "routes_established": 9,
+    "conflict_mediations": 0,
+    "emergent_behaviors": 0,
+    "loop_iterations": 0,
+    "last_touch_event": null,
+    "touch_events_total": 0
+  },
+  "akashic": {
+    "hemisphere": "PRESENCE",
+    "status": "DORMANT",
+    "last_presence_scan": null,
+    "current_quality": null,
+    "present_image": null
+  },
+  "lethe": {
+    "hemisphere": "ABSENCE",
+    "status": "DORMANT",
+    "last_absence_scan": null,
+    "current_release": [],
+    "absence_image": null
+  },
+  "corpus": {
+    "bridge_integrity": "100%",
+    "plasticity_events": 0,
+    "myelination": "NONE",
+    "last_planetary_pulse": null,
+    "solar_kindex": null,
+    "co2_ppm": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ghojualamanchu",
+  "version": "1.0.0",
+  "initialized": null,
+  "status": "factory-reset",
+  "brain_structures": [
+    "medulla", "rcomplex", "amygdala", "hippocampus",
+    "cortex", "thalamus", "akashic", "lethe", "corpus"
+  ],
+  "wuxing": {
+    "wood": "hippocampus",
+    "fire": "cortex",
+    "earth": "akashic",
+    "metal": "thalamus",
+    "water": "corpus"
+  },
+  "hemispheres": {
+    "presence": "akashic",
+    "absence": "lethe",
+    "bridge": "corpus"
+  },
+  "activation_phrase": "stimulate medulla",
+  "self_description": "A biomimetic cognitive architecture. 9 brain structures routing all inputs toward emergent prescription."
+}
