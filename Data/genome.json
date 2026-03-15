@@ -1,0 +1,26 @@
+{
+  "id": "ghojualamanchu",
+  "version": "1.0.0",
+  "release_name": "Sourdough v1.0",
+  "release_credit": "Sourdough naming by Coach Kiki Kealah Parkinson",
+  "initialized": "2026-03-11",
+  "status": "factory-reset",
+  "brain_structures": [
+    "medulla", "rcomplex", "amygdala", "hippocampus",
+    "cortex", "thalamus", "akashic", "lethe", "corpus"
+  ],
+  "wuxing": {
+    "wood": "hippocampus",
+    "fire": "cortex",
+    "earth": "akashic",
+    "metal": "thalamus",
+    "water": "corpus"
+  },
+  "hemispheres": {
+    "presence": "akashic",
+    "absence": "lethe",
+    "bridge": "corpus"
+  },
+  "activation_phrase": "stimulate medulla",
+  "self_description": "A biomimetic cognitive architecture. 9 brain structures routing all inputs toward emergent prescription."
+}
