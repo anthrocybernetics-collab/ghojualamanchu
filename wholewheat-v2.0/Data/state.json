@@ -1,0 +1,85 @@
+{
+  "organism": "ghojualamanchu",
+  "version": "wholewheat-v2.0",
+  "status": "DORMANT",
+  "initialized": null,
+  "cycle": 0,
+  "timestamp": null,
+  "medulla": {
+    "heartbeat": 0,
+    "last_pulse": null,
+    "uptime_streak": 0,
+    "emergency_count": 0,
+    "system_status": "dormant"
+  },
+  "rcomplex": {
+    "territory_state": {
+      "current_location": "unknown",
+      "environment": "local",
+      "home_streak": 0
+    },
+    "day_phase": "dormant",
+    "threat_level": "calm",
+    "dawn_today": false,
+    "midday_today": false,
+    "dusk_today": false,
+    "night_today": false
+  },
+  "amygdala": {
+    "current_valence": "neutral",
+    "current_arousal": "low",
+    "emotional_trending": "neutral",
+    "threat_count_today": 0,
+    "reward_count_today": 0,
+    "peak_salience_today": 0,
+    "last_emotional_shift": null
+  },
+  "hippocampus": {
+    "recent_memory_count": 0,
+    "longterm_memory_count": 0,
+    "last_consolidation": null,
+    "convergence_theme": null,
+    "decay_candidates": []
+  },
+  "cortex": {
+    "prediction_status": "dormant",
+    "prediction_confidence": 0,
+    "selfmodel_integrity": 10,
+    "correct_predictions_today": 0,
+    "incorrect_predictions_today": 0
+  },
+  "thalamus": {
+    "current_cycle": 0,
+    "last_cycle_complete": null,
+    "cycles_today": 0,
+    "routing_log": [],
+    "critical_interrupts_today": 0
+  },
+  "akashic": {
+    "presence_quality": "thin",
+    "last_presence_report": null,
+    "presence_image": null,
+    "dense_count_today": 0,
+    "thin_count_today": 0
+  },
+  "lethe": {
+    "current_absences": [],
+    "silence_duration": 0,
+    "last_input_time": null,
+    "longest_silence_today": 0,
+    "grief_queue": [],
+    "fading_things": []
+  },
+  "corpus": {
+    "planetary": {
+      "solar_k_index": null,
+      "co2_ppm": null,
+      "seismic_events": [],
+      "space_weather": "quiet"
+    },
+    "integration_status": "dormant",
+    "balance_score": 5,
+    "convergence_detected": false,
+    "convergence_theme": null
+  }
+}
